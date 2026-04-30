@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Demarco2016 | Web3 Builder & Crypto Farmer
 
-<!--
-**demarco2016/demarco2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔵 Onchain Identity
+- ✅ Verified Human — Billions Network
+- ⛓️ Base Network Active
+- 🎯 Top 1% Base Wallet — Target
 
-Here are some ideas to get you started:
+## 🛠️ ENS
+- `qatarcoupedumonde2022.eth`
+- `zakpedronft.bnb`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Socials
+- X: [@demarco2025](https://twitter.com/demarco2025)
+
+[![Billions Verified](https://img.shields.io/badge/Billions-Verified%20Agent-00D4FF?style=for-the-badge)](https://billions.network)
+[![Base](https://img.shields.io/badge/Base-Onchain-0052FF?style=for-the-badge)](https://base.org)
