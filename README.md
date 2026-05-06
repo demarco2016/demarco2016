@@ -1,16 +1,28 @@
-# 👋 Demarco2016 | Web3 Builder & Crypto Farmer
+# 👋 Hey, I'm Demarco
 
-## 🔵 Onchain Identity
+## 🌐 Web3 Builder & Airdrop Farmer
+
+### 🔵 Onchain Identity
 - ✅ Verified Human — Billions Network
-- ⛓️ Base Network Active
+- 🔲 Base Network Active
 - 🎯 Top 1% Base Wallet — Target
 
-## 🛠️ ENS
-- `qatarcoupedumonde2022.eth`
-- `zakpedronft.bnb`
+### 🔧 ENS
+- qatarcoupedumonde2022.eth
+- zakpedronft.bnb
 
-## 🔗 Socials
-- X: [@Demarco639](https://twitter.com/Demarco639)
+### 🌍 Socials
+- X: @Demarco639
 
-[![Billions Verified](https://img.shields.io/badge/Billions-Verified%20Agent-00D4FF?style=for-the-badge)](https://billions.network)
-[![Base](https://img.shields.io/badge/Base-Onchain-0052FF?style=for-the-badge)](https://base.org)
+### 🏷️ Tags
+![BILLIONS](https://img.shields.io/badge/BILLIONS-blue)
+![BASE](https://img.shields.io/badge/BASE-0052FF?style=flat&logoColor=white)
+![ONCHAIN](https://img.shields.io/badge/ONCHAIN-green)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=demarco2016&show_icons=true&theme=dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=demarco2016&theme=dark)
+
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=demarco2016&theme=darkhub)
