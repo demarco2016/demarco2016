@@ -2,13 +2,13 @@
 
 **Web3 Builder | Ecosystem Contributor | Airdrop Hunter**
 
-I build, contribute, and farm across emerging blockchain ecosystems. Currently focused on **Base**, **ARC**, and **GenLayer**.
+I build, contribute, and farm across emerging blockchain ecosystems. Currently focused on **Base**, **ARC**, **GenLayer**, and **Miden**.
 
 ---
 
 ### 🔵 What I Do
 
-- 🏗️ **Ecosystem Contribution** — Active contributor to Base, ARC, and GenLayer networks
+- 🏗️ **Ecosystem Contribution** — Active contributor to Base, ARC, GenLayer, and Miden
 - 🎯 **Airdrop Hunting** — Finding and farming high-potential protocols before they launch
 - 🤖 **Automation** — Building bots and tools to optimize Web3 workflows
 - 📝 **Content** — Creating educational content about blockchain opportunities
@@ -24,7 +24,7 @@ I build, contribute, and farm across emerging blockchain ecosystems. Currently f
 
 ### 🛠️ Stack
 
-`Base` `ARC` `Ethereum` `Solana` `Node.js` `GitHub Actions` `Playwright` `Solidity`
+`Base` `ARC` `GenLayer` `Miden` `Ethereum` `Solana` `Node.js` `GitHub Actions` `Playwright` `Solidity`
 
 ### 📈 GitHub Activity
 
