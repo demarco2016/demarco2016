@@ -1,62 +1,49 @@
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a1a;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1a0a2e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0a0a1a;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6A0DAD;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#9b59b6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6A0DAD;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6A0DAD;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#9b59b6;stop-opacity:0.3" />
-      <stop offset="100%" style="stop-color:#6A0DAD;stop-opacity:0" />
-    </linearGradient>
-  </defs>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/demarco2016/demarco2016/main/banner.svg" width="100%" alt="Demarco Banner">
+</p>
 
-  <!-- Background -->
-  <rect width="900" height="250" fill="url(#bg)" rx="12"/>
+# Hey, I'm Demarco 🚀
 
-  <!-- Glow line -->
-  <rect x="0" y="0" width="900" height="4" fill="url(#accent)"/>
-  <rect x="0" y="246" width="900" height="4" fill="url(#accent)"/>
-  <rect x="0" y="120" width="900" height="10" fill="url(#glow)"/>
+**Web3 Builder | Ecosystem Contributor | Airdrop Hunter**
 
-  <!-- Decorative circles -->
-  <circle cx="80" cy="50" r="60" fill="#6A0DAD" opacity="0.05"/>
-  <circle cx="820" cy="200" r="80" fill="#9b59b6" opacity="0.05"/>
-  <circle cx="450" cy="210" r="40" fill="#6A0DAD" opacity="0.03"/>
+I build, contribute, and farm across emerging blockchain ecosystems. Currently focused on **Base**, **ARC**, **GenLayer**, and **Miden**.
 
-  <!-- Main name -->
-  <text x="450" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="900" fill="white" text-anchor="middle" letter-spacing="8">DEMARCO</text>
+---
 
-  <!-- Subtitle -->
-  <text x="450" y="135" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="300" fill="#b0b0b0" text-anchor="middle" letter-spacing="4">WEB3 BUILDER · ECOSYSTEM CONTRIBUTOR</text>
+### 🧰 What I Do
 
-  <!-- Divider line -->
-  <line x1="250" y1="155" x2="650" y2="155" stroke="#6A0DAD" stroke-width="1" opacity="0.5"/>
+- 🤖 **Ecosystem Contribution** - Active contributor to Base, ARC, GenLayer, and Miden
+- 🎯 **Airdrop Hunting** - Finding and farming high-potential protocols before they launch
+- ⚙️ **Automation** - Building bots and tools to optimize Web3 workflows
+- 📝 **Content** - Creating educational content about blockchain opportunities
 
-  <!-- Tags -->
-  <rect x="240" y="170" width="70" height="26" rx="13" fill="#6A0DAD" opacity="0.2"/>
-  <text x="275" y="187" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#9b59b6" text-anchor="middle">⚡ ARC</text>
+### 🆔 Onchain Identity
 
-  <rect x="320" y="170" width="80" height="26" rx="13" fill="#0052FF" opacity="0.15"/>
-  <text x="360" y="187" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#0052FF" text-anchor="middle">▼ Base</text>
+| | |
+|---|---|
+| ✅ | Verified Human - Billions Network |
+| ⛓️ | Base Network Active |
+| 🏆 | Top 1% Base Wallet Target |
+| 🌐 | qatarcoupedumonde2022.eth |
 
-  <rect x="410" y="170" width="90" height="26" rx="13" fill="#FF6B35" opacity="0.15"/>
-  <text x="455" y="187" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#FF6B35" text-anchor="middle">◆ GenLayer</text>
+### 🛠️ Stack
 
-  <rect x="510" y="170" width="80" height="26" rx="13" fill="#00D4AA" opacity="0.15"/>
-  <text x="550" y="187" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#00D4AA" text-anchor="middle">◈ Miden</text>
+`Base` `ARC` `GenLayer` `Miden` `Ethereum` `Solana` `Node.js` `GitHub Actions` `Playwright` `Solidity`
 
-  <rect x="600" y="170" width="60" height="26" rx="13" fill="#F7931A" opacity="0.15"/>
-  <text x="630" y="187" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#F7931A" text-anchor="middle">△ SOL</text>
+### 📊 GitHub Activity
 
-  <!-- Bottom line -->
-  <text x="450" y="225" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="300" fill="#555" text-anchor="middle" letter-spacing="2">BUILDING IN PUBLIC · CONTRIBUTING TO THE DECENTRALIZED FUTURE</text>
-</svg>
-```
+![Stats](https://github-readme-stats.vercel.app/api?username=demarco2016&show_icons=true&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=demarco2016&theme=dark&hide_border=true)
+
+### 🏅 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=demarco2016&theme=darkhub&no-frame=true)
+
+### 🔗 Connect
+
+- **X / Twitter**: [@Demarco639](https://x.com/Demarco639)
+- **GitHub**: [demarco2016](https://github.com/demarco2016)
+
+---
+
+*Building in public. Contributing to the decentralized future.*
