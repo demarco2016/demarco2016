@@ -1,49 +1,41 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/demarco2016/demarco2016/main/banner.svg" width="100%" alt="Demarco Banner">
-</p>
+# Hey, I'm Demarco 👋
 
-# Hey, I'm Demarco 🚀
-
-**Web3 Builder | Ecosystem Contributor | Airdrop Hunter**
-
-I build, contribute, and farm across emerging blockchain ecosystems. Currently focused on **Base**, **ARC**, **GenLayer**, and **Miden**.
+🔨 Blockchain Developer | Arc Testnet Builder
+🐛 Bug Bounty Hunter | HackerOne - Circle
+🌍 Morocco
 
 ---
 
-### 🧰 What I Do
+## 🚀 What I'm Working On
 
-- 🤖 **Ecosystem Contribution** - Active contributor to Base, ARC, GenLayer, and Miden
-- 🎯 **Airdrop Hunting** - Finding and farming high-potential protocols before they launch
-- ⚙️ **Automation** - Building bots and tools to optimize Web3 workflows
-- 📝 **Content** - Creating educational content about blockchain opportunities
-
-### 🆔 Onchain Identity
-
-| | |
-|---|---|
-| ✅ | Verified Human - Billions Network |
-| ⛓️ | Base Network Active |
-| 🏆 | Top 1% Base Wallet Target |
-| 🌐 | qatarcoupedumonde2022.eth |
-
-### 🛠️ Stack
-
-`Base` `ARC` `GenLayer` `Miden` `Ethereum` `Solana` `Node.js` `GitHub Actions` `Playwright` `Solidity`
-
-### 📊 GitHub Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=demarco2016&show_icons=true&theme=dark&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=demarco2016&theme=dark&hide_border=true)
-
-### 🏅 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=demarco2016&theme=darkhub&no-frame=true)
-
-### 🔗 Connect
-
-- **X / Twitter**: [@Demarco639](https://x.com/Demarco639)
-- **GitHub**: [demarco2016](https://github.com/demarco2016)
+- 🔵 Building & testing on **Arc Network** (Circle's L1 Blockchain)
+- 🐛 Hunting bugs via **Arc Bug Bounty** (HackerOne)
+- 🏗️ Active member of **Arc Architects Program**
+- ⛓️ Exploring **Canopy Network** protocol
 
 ---
 
-*Building in public. Contributing to the decentralized future.*
+## 🛠️ Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+
+---
+
+## 🔗 Links
+
+- 🐦 Twitter: [@demarco2025](https://twitter.com/demarco2025)
+- 🏠 Arc House: [community.arc.io](https://community.arc.io)
+- 💼 ETH: `qatarcoupedumonde2022.eth`
+
+---
+
+## 📈 GitHub Stats
+
+![Demarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=demarco2016&show_icons=true&theme=dark)
+
+---
+
+*"Building the future of onchain finance, one block at a time."* ⛓️
