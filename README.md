@@ -34,7 +34,9 @@
 
 ## 📈 GitHub Stats
 
-![Demarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=demarco2016&show_icons=true&theme=dark)
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=demarco2016&theme=github-dark)
 
 ---
 
