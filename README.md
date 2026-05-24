@@ -26,7 +26,7 @@
 
 ## 🔗 Links
 
-- 🐦 Twitter: [@demarco2025](https://twitter.com/demarco2025)
+- 🐦 Twitter: [@Demarco639](https://x.com/Demarco639)
 - 🏠 Arc House: [community.arc.io](https://community.arc.io)
 - 💼 ETH: `qatarcoupedumonde2022.eth`
 
