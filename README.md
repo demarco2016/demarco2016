@@ -37,11 +37,12 @@ Web3 builder focused on **AI agents**, **AI-powered automation**, blockchain inf
 
 | Project | Description |
 |---------|-------------|
+| [Arcus Points Tracker](https://github.com/demarco2016/arcus-points-tracker) | Official Arcus Points monitor with dashboard and alerts |
+| [Web3 Airdrop Intelligence](https://github.com/demarco2016/web3-airdrop-intelligence) | Public announcement tracking with deadlines and credibility |
+| [AI Social Content Toolkit](https://github.com/demarco2016/ai-social-content-toolkit) | Modular drafting for X and Facebook Reels |
+| [AI Video Production Pipeline](https://github.com/demarco2016/ai-video-production-pipeline) | Script, TTS, subtitles, and FFmpeg assembly starter |
+| [On-Chain Analytics Dashboard](https://github.com/demarco2016/onchain-analytics-dashboard) | Network metrics and trend analysis |
 | [DEMARCO](https://github.com/demarco2016/DEMARCO) | Portfolio site |
-| [ARC-commits](https://github.com/demarco2016/ARC-commits) | ARC ecosystem tools |
-| [Base-commits](https://github.com/demarco2016/Base-commits) | Base monitoring |
-| [finance-watcher](https://github.com/demarco2016/finance-watcher) | Price alerts |
-| [openbb-trading](https://github.com/demarco2016/openbb-trading) | Market analysis |
 
 ### GitHub Activity
 
