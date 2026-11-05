@@ -1,6 +1,6 @@
 # Hey, I'm Demarco 👋
 
-**Web3 Builder** · airdrop automation · smart contract security · multi-chain node ops  
+**Web3 Builder & Ecosystem Contributor** | Base • ARC • GenLayer | Building in public  
 Morocco 🇲🇦
 
 [![X Follow](https://img.shields.io/twitter/follow/Demarco639?style=social&label=Follow)](https://x.com/Demarco639)
@@ -16,17 +16,21 @@ Morocco 🇲🇦
 - 🏗️ Active member of **Arc Architects Program**
 - ⛓️ Exploring **Canopy Network** protocol
 - 📡 Operating nodes on **Base**, **ARC**, **GenLayer**
+- 📊 Tracking **Arcus Points** program (official weekly distributions)
 
 ## 📦 Featured Repos
 
 | Repo | Description |
 |------|-------------|
-| [Base-commits](https://github.com/demarco2016/Base-commits) | Base ecosystem monitor & airdrop opportunity tracker |
+| [Arcus Points Tracker](https://github.com/demarco2016/arcus-points-tracker) | Official Arcus XYZ weekly points tracker, snapshots, live countdown & dashboard |
+| [Onchain Analytics Dashboard](https://github.com/demarco2016/onchain-analytics-dashboard) | Lightweight blockchain analytics for network activity & wallet exploration |
+| [Web3 Airdrop Intelligence](https://github.com/demarco2016/web3-airdrop-intelligence) | Monitor official Web3 announcements & deadlines (no guaranteed claims) |
+| [Base-commits](https://github.com/demarco2016/Base-commits) | Base ecosystem monitor & project tracking |
 | [TDX Audits](https://github.com/demarco2016/tdx-audits) | Smart contract security reviews & findings |
-| [contracts](https://github.com/demarco2016/contracts) | Base L1 proof verification & TEE contracts (fork) |
 
 ## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
